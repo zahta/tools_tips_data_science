@@ -1,7 +1,5 @@
 
-# Fundamental Tools for Data Science
-
-Some fundamental tools to write codes in data science, especially with Python programming language.
+# Fundamental and Useful Tools and Tips for Data Science
 
 ## Python
 

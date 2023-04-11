@@ -37,5 +37,6 @@
 #### Videos and courses
 - [Git](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L) by Amir Hasan Azimi (in Persian)
 
+### Essencial steps to set up your PC for graph machine learning with PyG
 
 

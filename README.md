@@ -83,7 +83,7 @@
 
   - Base on your python version: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
   - For newer versions: https://pytorch-geometric.com/whl/
-  - for older versions: https://data.pyg.org/whl/
+  - For older versions: https://data.pyg.org/whl/
   - An Installation example for version 1.9.0 of pytorch:
       ```
       pip install torch_scatter -f https://data.pyg.org/whl/torch-1.9.0%2Bcpu.html
